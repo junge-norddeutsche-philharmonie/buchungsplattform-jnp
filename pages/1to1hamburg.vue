@@ -15,9 +15,11 @@
 </template>
 
 <script>
-
 export default {
-  components: {
-  }
+name: "1to1hamburg"
 }
 </script>
+
+<style scoped>
+
+</style>
